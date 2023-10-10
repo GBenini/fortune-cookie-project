@@ -59,7 +59,7 @@ p {
 .screen1 > button {
     border: none;
     cursor: pointer;
-
+    background: #fff;
 }
 
 .screen1 > button:hover {
